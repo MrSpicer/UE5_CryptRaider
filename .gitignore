@@ -1,0 +1,11 @@
+.vs/*
+*.dll
+Binaries/*
+Content/MedievalDungeon/*
+Content/FirstPerson/*
+Content/FirstPersonArms/*
+Content/FPWeapon/*
+Saved/*
+Intermediate/*
+DerivedDataCache/*
+*.bak
